@@ -13,8 +13,8 @@ https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
 Steps to Run Program:
 1. Simply download and include graphics file required.
 2. Open the main program
-3. Add obstacles if you need in "declareObstacles()" function, We have include some obstacles 
-4. Change start and end points if you wish
+3. Add obstacles if you need in "declareObstacles()" function, We have already included some obstacles 
+4. Change start and end points if you wish in main program
 5. Run the program  
 
 Changing range:
