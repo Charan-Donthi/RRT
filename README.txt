@@ -14,7 +14,7 @@ Steps to Run Program:
 1. Simply download and include graphics file required.
 2. Open the main program
 3. Add obstacles if you need in "declareObstacles()" function, We have already included some obstacles 
-4. Change start and end points if you wish in main program
+4. Change start and end points if you wish in main program at lines 47 and 48. Just change the coordinates
 5. Run the program  
 
 Changing range:
