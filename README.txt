@@ -6,6 +6,10 @@ Description:The project was build and executed in Code::Blocks IDE
 It uses graphics files for grahical simulation.
 Program is RRT* modified after implementing RRT
 
+Including extra files for graphics:
+The following link has step by step process to setup winBGIm library
+https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
+
 Steps to Run Program:
 1. Simply download and include graphics file required.
 2. Open the main program
