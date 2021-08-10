@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1628523965 source:c:\users\star\desktop\mowito\rrt\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<list>
+	<stdlib.h>
+	<string>
+	<time.h>
+	"Node.h"
+	<vector>
+	<cmath>
+	"Obstacle.h"
+	"Point.h"
+	<math.h>
+	<iostream>
+
+1628450633 source:c:\users\star\desktop\mowito\rrt\obstacle.cpp
+	"Obstacle.h"
+
+1628450640 c:\users\star\desktop\mowito\rrt\obstacle.h
+	<string>
+
+1628521056 source:c:\users\star\desktop\mowito\rrt\node.cpp
+	"Node.h"
+
+1628509049 c:\users\star\desktop\mowito\rrt\node.h
+
+1628450618 source:c:\users\star\desktop\mowito\rrt\point.cpp
+	"Point.h"
+
+1628451062 c:\users\star\desktop\mowito\rrt\point.h
+
