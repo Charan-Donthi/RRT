@@ -22,3 +22,23 @@ Here range value in function "getMinCostParentWithinRange(vector<Node*> nodes,in
 will allow random points to be made within the circular radius of nodes.
 Higher the value higher the straight lines and optimum path but less speed 
 lower the value lower the straight lines and optimum path but high speed.
+
+
+Resources and References
+
+RRT and RRT* algorithm references:
+https://www.youtube.com/watch?v=QR3U1dgc5RE
+https://www.youtube.com/watch?v=4Rd_gTYIft8&t=2341s
+https://www.youtube.com/watch?v=qg2uqpyo0Xs
+https://www.youtube.com/watch?v=YKiQTJpPFkA
+
+C++ graphics programming references
+https://www.youtube.com/watch?v=pywM36qKHvg
+https://www.youtube.com/watch?v=8uM8omF7SVc&t=305s
+https://www.includehelp.com/c/draw-circle-and-rectangle.aspx#:~:text=To%20draw%20a%20rectangle%20in,int%20right%2C%20int%20bottom)%3B
+https://www.geeksforgeeks.org/draw-line-c-graphics/
+
+
+
+
+
